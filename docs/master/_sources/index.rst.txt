@@ -65,8 +65,8 @@ Technical support is available through the website at: `www.microchip.com/suppor
    :caption: Versions  
    :hidden: 
    
-   Latest Release <https://microchiptech.github.io/fpga-hls-docs/master/index.html>
-   Previous Versions <https://microchiptech.github.io/fpga-hls-docs/master/versions.html>
+   Latest Release <https://amantalwar04.github.io/fpga-hls-docs/master/index.html>
+   Previous Versions <https://amantalwar04.github.io/fpga-hls-docs/master/versions.html>
 
 	 
 .. toctree::
