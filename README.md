@@ -1,3 +1,3 @@
 # fpga-hls-docs
+![](./icicle_jumper_settings.svg)
 
-<img src="icicle_jumper_settings.svg">
